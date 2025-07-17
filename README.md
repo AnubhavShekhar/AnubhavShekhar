@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnubhavShekhar](https://github.com/AnubhavShekhar)
 
-- 📫 How to reach me **anubhavshekhar2001@gmail.com**
+- 📫 How to reach me **anubhav.shekhar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
